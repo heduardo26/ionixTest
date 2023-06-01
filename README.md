@@ -64,3 +64,7 @@ Para implementar la segunda parte, el consumo de una Api Externa se usa la sigui
 Debido a que no tuve tiempo de implementar Swagger para este proyecto coloque adjunto una PostMan Collection (__Ionix.postman_collection.json__)
 necesaria para implementar el Api Rest.   
   
+-------------------------------------------------------------------
+
+### Ejercicio 2 
+La respuesta está en un pdf en la raiz del proyecto llamado Respuesta *Ejercicio 2.pdf* 
