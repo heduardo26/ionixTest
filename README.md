@@ -10,8 +10,8 @@
 - Junit
 - Mockito
 
-### Arquitectura
-Se implementó una arquitectura N-tier o de capas, en la cual existe un controlador que ejecuta los servicios que son clases que contienen la lógica de negocio,
+### Arquitectura 
+Se implementó una arquitectura N-tier o de capas, en la cual existe un controlador que ejecuta los servicios que son clases que contienen la lógica de negocio, 
 estas clases hacen uso de los servicios de las interfaces repository.
 -------------------------------------------------------------------
 
