@@ -111,7 +111,7 @@ class UserServiceTest {
 
         // Configure UserRepo.findByEmail(...).
         final UserEntity user1 = new UserEntity(0L, "userName", "name", "email", "phone");
-        when(mockUserRepo.findByEmail("email")).thenReturn(user1);
+        when(mockUserRepo.findByEmail("email")).thenReturn(null);
 
         // Configure UserRepo.save(...).
         final UserEntity user2 = new UserEntity(0L, "userName", "name", "email", "phone");
